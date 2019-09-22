@@ -4,4 +4,4 @@ class Dog
   end
 end
 
-Dog.bark 
+Dog.bark
