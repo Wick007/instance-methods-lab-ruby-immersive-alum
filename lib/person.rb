@@ -1,5 +1,5 @@
 class Person
-  def sss 
+  def sss
     puts "sss"
   end
-end 
+end
