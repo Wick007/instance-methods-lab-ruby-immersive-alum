@@ -1,5 +1,5 @@
 class Person
-  def sss
+  def talk
     puts "sss"
   end
 end
